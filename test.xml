@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE commercial SYSTEM "commercial.dtd">
 <commercial>
-   <client>
-     <client id="1">
-      <nom>Renard</nom>
-      <prenom>Nicolas</prenom>
-      <mail>nrenard@gmail.com</mail>
-      <mobile>0699305567</mobile>
-     </client>
-     <client id="2">
-      <nom>Grenapin</nom>
-      <prenom>Dorothée</prenom>
-      <mail>grenapin@ft-group.com</mail>
-      <mobile>0299123455</mobile>
-      </client>
-      <demande>
-        <destination>
-        </destination>
-        <periode>
-        </periode>
-        <duree>
-        </duree>
-        <nbParticipants>
-        </nbParticipants>
-        <tarifMax></tarifMax>
-        <propositions>
-          <proposition>
-          </proposition>
-        </proposition>
-      </demande>
-    </client>
+  <client nom="Renard" prenom="Nicolas" mail ="nrenard@gmail.com" mobile="0699305567">
+    <demande>
+      <destination>Mexique</destination>
+      <periode>Fin mais 2010</periode>
+      <duree>7 nuits</duree>
+      <nbParticipants>4</nbParticipants>
+      <tarifMax>890.00</tarifMax>
+      <propositions>
+        <proposition>Circuit Maya</proposition>
+        <proposition>Route Turquoise</proposition>
+      </propositions>
+    </demande>
+  </client>
+  <client nom="Grenapin" prenom="Dorothée" mail ="grenapin@ft-group.com" mobile="0299123455">
+  </client>
 </commercial>
