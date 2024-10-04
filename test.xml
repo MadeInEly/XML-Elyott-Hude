@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE commercial SYSTEM "commercial.dtd">
+<commercial>
+   <client>
+     <client id="1">
+      <nom>Renard</nom>
+      <prenom>Nicolas</prenom>
+      <mail>nrenard@gmail.com</mail>
+      <mobile>0699305567</mobile>
+     </client>
+     <client id="2">
+      <nom>Grenapin</nom>
+      <prenom>Dorothée</prenom>
+      <mail>grenapin@ft-group.com</mail>
+      <mobile>0299123455</mobile>
+      </client>
+      <demande>
+        <destination>
+        </destination>
+        <periode>
+        </periode>
+        <duree>
+        </duree>
+        <nbParticipants>
+        </nbParticipants>
+        <tarifMax></tarifMax>
+        <propositions>
+          <proposition>
+          </proposition>
+        </proposition>
+      </demande>
+    </client>
+</commercial>
